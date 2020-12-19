@@ -1,3 +1,10 @@
+  
+/**
+ * To run this file in Gitpod, use the 
+ * command node reduce.js in the terminal
+ */
+
+
 // Summing an array of numbers:
 
 
